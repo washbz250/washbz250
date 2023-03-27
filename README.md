@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @washbz250
 - 👀 I’m interested in developing professional skills
-- 🌱 I’m currently learning Python, Linux SysAdmin
+- 🌱 I’m currently learning Python, Linux SysAdmin, Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
